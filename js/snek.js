@@ -78,7 +78,7 @@ const init = () => {
     setInterval(game, 1000 / 15);
 }
 
-// change game interval to chance speed/difficulty
+// change game interval to change speed/difficulty
 // count segments for score
 
 // window.onload = init();
